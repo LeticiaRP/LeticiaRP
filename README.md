@@ -6,7 +6,7 @@ I'm Leticia Rodrigues Pinto, a passionate electrical engineer with a focus on ro
 - Programming Languages: C++, Python
 - Frameworks: ROS (Robot Operating System), ROS2
 - Tools: MATLAB, Git, IntelSense
-- Hardware: Arduino, Raspberry Pi
+- Hardware: ESP32, Raspberry Pi
 - Other: Control Systems, Embedded Systems
 
 🌱 **I'm currently learning:** Advanced control algorithms and machine learning applications in robotics.
